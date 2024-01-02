@@ -1,2 +1,2 @@
-# ml-middleware-api
-Middleware API for ML model deployment
+# ML Middleware API
+Middleware API for ML model deployment built with FastAPI on Kubernetes
